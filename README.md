@@ -7,7 +7,7 @@ test for a linear trend in a given time series.
 
 # Installation
 
-1. Simply clone this repository and copy ``bpl.py`` in the directory where you are
+1. Simply clone this repository and copy ``mkt.py`` in the directory where you are
 working in.
 
 2. Alternatively, you can clone this repository to a desired directory of your
