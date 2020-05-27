@@ -1,5 +1,5 @@
 """
-Examples to help illustrate the module BPL.PY
+Examples to help illustrate the module MKT.PY
 =============================================
 
 Created: Mon Apr 17, 2017  01:19PM
